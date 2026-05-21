@@ -155,12 +155,14 @@ filtered_angle = (0.9f * filtered_angle) + (0.1f * mechanical_angle);
 
 # UART Output Example
 
-Angle = 124.52
-Angle = 125.01
-Angle = 125.44
+Angle = 124.52,
+Angle = 125.01,
+Angle = 125.44,
 Angle = 126.10
 
 
 # Output Demonstration
 
 Real-time mechanical angle logging through UART terminal using Tera Term.
+
+![Output](https://github.com/sayalivadgaonkar18/STM32-FreeRTOS-IPS-Based-Position-Monitor/blob/main/Images/Output.png?raw=true)
